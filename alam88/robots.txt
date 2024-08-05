@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ftp.eliasmote.com/alam88/sitemap.xml

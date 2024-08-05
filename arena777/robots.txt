@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ftp.eliasmote.com/arena777/sitemap.xml
